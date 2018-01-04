@@ -18,10 +18,10 @@
           "help": {
             "online": "http://support.robotis.com/ko/product/controller/opencm7_main.htm"
           },
-          "url": "http://www.robotis.com/download/jason_temp/opencm7_core_1.0.zip",
+          "url": "https://github.com/ROBOTIS-GIT/OpenCM7.0/files/759467/opencm7_core_1.0.zip",
           "archiveFileName": "opencm7_core_1.0.zip",
-          "checksum": "SHA-256:0115F2A5FE1F9E0A90DC7F9CB4964AF09F8098AFE431AFE3205B60CFD120F185",
-          "size": "496955",
+          "checksum": "SHA-256:8CB1CA619A38B18F73F715F2247FC211D197C3685ABD2FAFC2D00F83B4B3CC06",
+          "size": "491130",
           "help": {
                     "online": "http://support.robotis.com/ko/product/controller/opencm7_main.htm"
           },
@@ -50,7 +50,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "http://www.robotis.com/download/jason_temp/gcc-arm-none-eabi-4_9-2014q4-20141203-win32.zip",
+              "url": "http://www.robotis.com/download/OpenCM7.0/gcc-arm-none-eabi-4_9-2014q4-20141203-win32.zip",
               "archiveFileName": "gcc-arm-none-eabi-4_9-2014q4-20141203-win32.zip",
               "checksum": "SHA-256:AFFB4FB88F48EC1CC37D7FF3DD3138C085EEA41F4F5A07ADADE747CB4B30C4F3",
               "size": "88119194"
@@ -63,7 +63,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "http://www.robotis.com/download/jason_temp/opencm7_tools_1.0.zip",
+              "url": "https://github.com/ROBOTIS-GIT/OpenCM7.0/files/759482/opencm7_tools_1.0.zip",
               "archiveFileName": "opencm7_tools_1.0.zip",
               "checksum": "SHA-256:502DD9A387F4FB01E06BFB5DC62CAEB8FC4DFCF339C5303F99E107D6D9121C5F",
               "size": "289554"
