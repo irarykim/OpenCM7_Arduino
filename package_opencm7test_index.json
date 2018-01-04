@@ -50,7 +50,7 @@
           "systems": [
             {
               "host": "i686-mingw32",
-              "url": "http://www.robotis.com/download/OpenCM7.0/gcc-arm-none-eabi-4_9-2014q4-20141203-win32.zip",
+              "url": "http://www.robotis.com/service/download.php?no=702",
               "archiveFileName": "gcc-arm-none-eabi-4_9-2014q4-20141203-win32.zip",
               "checksum": "SHA-256:AFFB4FB88F48EC1CC37D7FF3DD3138C085EEA41F4F5A07ADADE747CB4B30C4F3",
               "size": "88119194"
